@@ -1,6 +1,6 @@
 # UNC COMP Course Scheduler
 
-The UNC COMP Course Scheduler is an application that provides our clients an interface that generates a course schedule for the UNC Computer Science department based on the constraints that Professor Singh inputs. This application was possible by using JavaScript, HTML, CSS, the PuLP Linear Optimization library, and a SQLite3 based database.
+The UNC COMP Course Scheduler is an application that provides our clients an interface that generates a course schedule for the UNC Computer Science department based on several constraints. This application was made possible by using JavaScript, HTML, CSS, the PuLP Linear Optimization library, and a SQLite3 based database.
 
 ## Pages
 
